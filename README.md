@@ -14,3 +14,9 @@ If any of the above libraries are missing, you can install them using pip. To us
 
 <h2>Example Submissions</h2>
 The submissions.zip file found in the repository contains some simple testing data that can be used to determine if the script works.
+<h3>Starting State</h3>
+A directory that contains a zip file with each student's submission.
+OR
+A zip file that contains a zip file for each student.
+<h3>Ending State</h3>
+A directory named for each student that contains all of their source code and submitted files.

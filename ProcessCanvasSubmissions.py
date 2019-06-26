@@ -80,7 +80,7 @@ def SelectLanguageOrProcess():
 # Extracts the student name from the students compressed submission
 # Canvas assignments are downloaded in the form studentName_courseNumber_assignmentNumber_assignmentTitle.fileExtension
 def DetermineSubdirectory(filename):
-    # Seperates the filename into parts and then returns the leading section of the filename
+    # Separates the filename into parts and then returns the leading section of the filename
 	return filename.split('_')[0]
 
 
