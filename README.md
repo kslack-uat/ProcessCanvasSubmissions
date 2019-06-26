@@ -20,3 +20,8 @@ OR
 A zip file that contains a zip file for each student.
 <h3>Ending State</h3>
 A directory for each student (with their name or id) that contains all of their source code and submitted files.
+
+<h2>Profiling the Project</h2>
+The runtime of the project can be measured using python's profiler. To execute the profiler on this source code, run the program using the following command from the terminal or commandline:<br/>
+<i>python -m cProfile ProcessCanvasSubmissions.py</i><br/>
+Note, you should be in the directory where ProcessCanvasSubmissions.py exists for this to work.
