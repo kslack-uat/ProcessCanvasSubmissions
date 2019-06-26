@@ -19,4 +19,4 @@ A directory that contains a zip file with each student's submission.
 OR
 A zip file that contains a zip file for each student.
 <h3>Ending State</h3>
-A directory named for each student that contains all of their source code and submitted files.
+A directory for each student (with their name or id) that contains all of their source code and submitted files.
